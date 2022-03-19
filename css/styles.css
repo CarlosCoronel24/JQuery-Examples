@@ -1,0 +1,20 @@
+body{
+	background-size: 100px 100px;
+}
+
+
+.botton{
+	width: 220px; /* Ancho */
+}
+
+.logo{
+	position: fixed;
+	/* position: relative; */
+	/* top: 300px; left: 1100px; */
+}
+
+.logoguardado{
+	position: fixed;
+	/* position: relative; */
+	top: 300px; left: 1100px;
+}
